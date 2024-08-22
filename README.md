@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d43bc4a9-1dff-42fe-b213-fe1408b6d453)# ALLOY-COMPOSITION-PREDICTION-PROGRAM-USING-ML
+# ALLOY-COMPOSITION-PREDICTION-PROGRAM-USING-ML
 # 머신 러닝을 이용한 합금 조성 예측 프로그램 개발
 
 # 주제 선정 배경
